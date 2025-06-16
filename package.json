@@ -1,5 +1,5 @@
 {
-	"name": "unifi-ddns",
+	"name": "cloudflare-ddns",
 	"version": "3.1.1",
 	"private": true,
 	"scripts": {
